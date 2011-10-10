@@ -11,5 +11,9 @@ int main(){
 	
 	printf("a is %d\n", a);	
 
+ 
+	printf("insert!");
+	
+ 
 	return 0;
 }
