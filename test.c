@@ -8,7 +8,7 @@ int main(){
 	printf("insert code in linux\n");
 	
 	a = 2;
-	
+	a = 123;	
 	printf("a is %d\n", a);	
 
  
