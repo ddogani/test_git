@@ -4,13 +4,11 @@
 
 
 int main(){
-	int c = 1;
 
-	printf("%d dfdfadf\n", c);
+	int testInteger = 0;
 
+	printf("merge test\n");
 
-
-	printf("1,2,3,4,5\m");
 
 	return 0;
 
