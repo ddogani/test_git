@@ -7,7 +7,7 @@ int main(){
 
 	printf("insert code in linux\n");
 	
-	a = 1;
+	a = 2;
 	
 	printf("a is %d\n", a);	
 
