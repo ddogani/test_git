@@ -7,6 +7,7 @@ int main(){
 	int c = 0;
 	printf("dfadlkjfdkfjljkjlkj\n");
 
+	printf("%d dd\n",b);
 	return 0;
 
 }
